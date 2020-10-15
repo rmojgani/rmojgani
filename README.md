@@ -1,7 +1,7 @@
 ### Rambod Mojgani
 ■ computational physics ■ data-driven modeling ■ machine learning in physical systems ■ dimensionality reduction
 
-## Summary of resume [@rmojgani](https://www.rmojgani.com)
+## Summary of [@resume](https://www.rmojgani.com)
 ## Highlights:
 - [@My PhD Thesis](http://hdl.handle.net/2142/108494)
 
@@ -9,7 +9,7 @@
 
   - Repository: [@Physicis Aware Low-rank Auto-encoder](https://github.com/rmojgani/PhysicsAwareAE)
 
-2. Stabilization [@Stabilization of linear time-varying reduced order models](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.6489)
+2. Stabilization: [@Stabilization of linear time-varying reduced order models](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.6489)
 
   - Repository: [@Contact me](mojgani2@illinois.edu)
 
