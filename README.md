@@ -5,7 +5,7 @@
 ## Highlights:
 ### My PhD [Thesis](http://hdl.handle.net/2142/108494)
 
-1. Dimensionality reduction: [@arXiv](https://arxiv.org/abs/2006.15655)
+1. Dimensionality reduction: [preprint on arXiv](https://arxiv.org/abs/2006.15655)
 
   - Repository: [PAAE](https://github.com/rmojgani/PhysicsAwareAE)
 
