@@ -11,11 +11,11 @@
 
 2. Stabilization: [Published on IJNME](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.6489)
 
-  - Repository: [Contact me]<mojgani2@illinois.edu>
+  - Repository: [Contact me](mojgani2@illinois.edu)
   
 3. Lagrangian Dimensionality reduction: [preprint on arXiv](https://arxiv.org/abs/1701.04343)
 
-  - Repository: [Contact me]<mojgani2@illinois.edu>
+  - Repository: [Contact me](mojgani2@illinois.edu)
 
 
 <!--
