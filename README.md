@@ -3,7 +3,7 @@
 
 ## Summary of [@resume](https://www.rmojgani.com)
 ## Highlights:
-- [@My PhD Thesis](http://hdl.handle.net/2142/108494)
+### [@My PhD Thesis](http://hdl.handle.net/2142/108494)
 
 1. Dimensionality reduction: [@Physicis Aware Low-rank Auto-encoder](https://arxiv.org/abs/2006.15655)
 
