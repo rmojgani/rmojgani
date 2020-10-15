@@ -1,4 +1,5 @@
-### Hi there 👋
+### Rambod Mojgani
+■ computational physics ■ data-driven modeling ■ machine learning in physical systems ■ dimensionality reduction
 
 <!--
 **rmojgani/rmojgani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
