@@ -1,6 +1,11 @@
 ### Rambod Mojgani
 ■ computational physics ■ data-driven modeling ■ machine learning in physical systems ■ dimensionality reduction
 
+## Summary of resume [@rmojgani](https://www.rmojgani.com)
+## Highlights:
+- [@Physicis Aware Low-rank Auto-encoder](https://github.com/rmojgani/PhysicsAwareAE)
+
+
 <!--
 **rmojgani/rmojgani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
