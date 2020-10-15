@@ -1,15 +1,15 @@
 ### Rambod Mojgani
 ■ computational physics ■ data-driven modeling ■ machine learning in physical systems ■ dimensionality reduction
 
-## Summary of [@resume](https://www.rmojgani.com)
+## Summary of [resume](https://www.rmojgani.com)
 ## Highlights:
-### My PhD [@Thesis](http://hdl.handle.net/2142/108494)
+### My PhD [Thesis](http://hdl.handle.net/2142/108494)
 
-1. Dimensionality reduction: [@Physicis Aware Low-rank Auto-encoder](https://arxiv.org/abs/2006.15655)
+1. Dimensionality reduction: [@arXiv](https://arxiv.org/abs/2006.15655)
 
-  - Repository: [@Physicis Aware Low-rank Auto-encoder](https://github.com/rmojgani/PhysicsAwareAE)
+  - Repository: [PAAE](https://github.com/rmojgani/PhysicsAwareAE)
 
-2. Stabilization: [@Stabilization of linear time-varying reduced order models](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.6489)
+2. Stabilization: [Published on IJNME](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.6489)
 
   - Repository: [@Contact me](mojgani2@illinois.edu)
 
