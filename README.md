@@ -1,5 +1,5 @@
 ### Rambod Mojgani
-■ computational physics ■ data-driven modeling ■ machine learning in physical systems ■ dimensionality reduction
+■ computational sciences ■ data-driven modeling ■ machine learning in physical systems ■ dimensionality reduction
 
 ## Summary of [resume](https://www.rmojgani.com)
 ## Highlights:
