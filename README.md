@@ -6,7 +6,7 @@
 ### My PhD [Thesis](http://hdl.handle.net/2142/108494) on ``Reduced order modeling of convection-dominated flows, dimensionality reduction and stabilization''
 
 
-1. Data-driven Dimensionality reduction: [preprint on arXiv](https://arxiv.org/abs/2006.15655)
+1. Fully data-driven dimensionality reduction: [preprint on arXiv](https://arxiv.org/abs/2006.15655)
 
   - Repository: [PAAE](https://github.com/rmojgani/PhysicsAwareAE)
 
@@ -14,7 +14,7 @@
 
   - Repository: [Contact me](mojgani2@illinois.edu)
   
-3. Lagrangian Dimensionality reduction: [preprint on arXiv](https://arxiv.org/abs/1701.04343)
+3. Lagrangian dimensionality reduction: [preprint on arXiv](https://arxiv.org/abs/1701.04343)
 
   - Repository: [Contact me](mojgani2@illinois.edu)
 
