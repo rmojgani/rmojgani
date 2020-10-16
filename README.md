@@ -8,7 +8,7 @@
 
 1. Fully data-driven dimensionality reduction: [preprint on arXiv](https://arxiv.org/abs/2006.15655)
 
-  - Repository: [PAAE](https://github.com/rmojgani/PhysicsAwareAE)
+  - Repository: [PhysicsAwareAE](https://github.com/rmojgani/PhysicsAwareAE)
 
 2. Stabilization: [Published on IJNME](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.6489)
 
