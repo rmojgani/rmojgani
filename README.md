@@ -1,9 +1,10 @@
 ### Rambod Mojgani
-■ computational sciences ■ data-driven modeling ■ machine learning in physical systems ■ dimensionality reduction
+■ computational sciences ■ data-driven modeling ■ machine learning in physical systems ■ model reduction
 
 ## Summary of [resume](https://www.rmojgani.com)
 ## Highlights:
-### My PhD [Thesis](http://hdl.handle.net/2142/108494)
+### My PhD [Thesis](http://hdl.handle.net/2142/108494) on ``Reduced order modeling of convection-dominated flows, dimensionality reduction and stabilization''
+
 
 1. Data-driven Dimensionality reduction: [preprint on arXiv](https://arxiv.org/abs/2006.15655)
 
