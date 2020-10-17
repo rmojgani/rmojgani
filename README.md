@@ -9,7 +9,7 @@
 1. Fully data-driven dimensionality reduction: [preprint on arXiv](https://arxiv.org/abs/2006.15655)
 
   - Repository: [PhysicsAwareAE](https://github.com/rmojgani/PhysicsAwareAE)
-  - Poster: [PhysicsAwareAE](http://doi.org/10.13140/RG.2.2.21734.98886) 
+  - Poster: [MLTP2020](http://doi.org/10.13140/RG.2.2.21734.98886) 
 
 2. Stabilization: [Published on IJNME](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.6489)
 
