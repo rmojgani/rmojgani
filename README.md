@@ -6,7 +6,7 @@
 ### My PhD [Thesis](http://hdl.handle.net/2142/108494) on ``Reduced order modeling of convection-dominated flows, dimensionality reduction and stabilization''
 
 
-1. Fully data-driven dimensionality reduction: [preprint on arXiv](https://arxiv.org/abs/2006.15655)
+1. Fully data-driven dimensionality reduction (Autoencoder approach): [preprint on arXiv](https://arxiv.org/abs/2006.15655)
 
   - Repository: [PhysicsAwareAE](https://github.com/rmojgani/PhysicsAwareAE)
   - Poster: [MLTP2020](http://doi.org/10.13140/RG.2.2.21734.98886) 
