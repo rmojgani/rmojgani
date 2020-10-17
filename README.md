@@ -11,7 +11,7 @@
   - Repository: [PhysicsAwareAE](https://github.com/rmojgani/PhysicsAwareAE)
   - Poster: [MLTP2020](http://doi.org/10.13140/RG.2.2.21734.98886) 
 
-2. Stabilization: [Published on IJNME](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.6489)
+2. Stabilization: [Published in IJNME](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.6489)
 
   - Repository: [Contact me](mojgani2@illinois.edu)
   
