@@ -1,5 +1,5 @@
 # Slides (Temporarily available)
-## MECH Seminar Series [download the presentation file](https://github.com/rmojgani/rmojgani/raw/main/Rice_slides.pdf)
+## MECH Seminar Series at Rice University [download the presentation file](https://github.com/rmojgani/rmojgani/raw/main/Rice_slides.pdf)
 
 
 ----------------------------------------------------------------------------------
