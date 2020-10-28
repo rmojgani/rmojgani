@@ -1,3 +1,8 @@
+# Slides (Temporarily available)
+## MECH Seminar Series [download the presentation file](https://github.com/rmojgani/rmojgani/raw/main/Rice_slides.pdf)
+
+
+----------------------------------------------------------------------------------
 ### Rambod Mojgani
 ■ computational sciences ■ data-driven modeling ■ machine learning in physical systems ■ model reduction
 
