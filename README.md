@@ -1,4 +1,4 @@
-## Rambod Mojgani
+# Rambod Mojgani
 ■ computational sciences ■ data-driven modeling ■ machine learning in physical systems ■ model reduction
 
 ## Summary of my [resume](https://www.rmojgani.com)
