@@ -1,7 +1,7 @@
 # Rambod Mojgani
 ■ computational sciences ■ data-driven modeling ■ machine learning in physical systems ■ model reduction
 
-|  | Project | Description | Link |
+|  | Project | Description | Repository |
 | --- | ------ | ----------- |---------- |
 | 🖥️ | [Physics Aware Auto-encoder](https://arxiv.org/abs/2006.15655) | Manifold Learning for hyperbolic PDEs| [GitHub](https://github.com/rmojgani/PhysicsAwareAE) |
 
