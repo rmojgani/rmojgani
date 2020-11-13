@@ -1,11 +1,6 @@
 # Rambod Mojgani
 ■ computational sciences ■ data-driven modeling ■ machine learning in physical systems ■ model reduction
 
-|  | Project | Description | Repository |
-| --- | ------ | ----------- |---------- |
-| 🖥️ | [Physics Aware Auto-encoder](https://arxiv.org/abs/2006.15655) | Manifold learning for hyperbolic PDEs| [GitHub](https://github.com/rmojgani/PhysicsAwareAE) |
-| 🖥️ | [LTV ROM Stabilization](https://doi.org/10.1002/nme.6489) | An optimal feedback controller for linear time-varying reduced order models | - |
-
 ## Summary of my [resume](https://www.rmojgani.com)
 
 ## Highlights:
@@ -25,6 +20,11 @@
 
   - Repository: [Contact me](mojgani2@illinois.edu)
 
+## Repository List:
+|  | Project | Description | Repository |
+| --- | ------ | ----------- |---------- |
+| 🖥️ | [Physics Aware Auto-encoder](https://arxiv.org/abs/2006.15655) | Manifold learning for hyperbolic PDEs| [GitHub](https://github.com/rmojgani/PhysicsAwareAE) |
+| 🖥️ | [LTV ROM Stabilization](https://doi.org/10.1002/nme.6489) | An optimal feedback controller for linear time-varying reduced order models | - |
 
 <!--
 **rmojgani/rmojgani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
