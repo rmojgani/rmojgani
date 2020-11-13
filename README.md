@@ -20,7 +20,7 @@
 
   - Repository: [Contact me](mojgani2@illinois.edu)
 
-## Repository List:
+## Project List:
 |  | Project | Description | Repository |
 | --- | ------ | ----------- |---------- |
 | 🖥️ | [Physics Aware Auto-encoder](https://arxiv.org/abs/2006.15655) | Manifold learning for hyperbolic PDEs| [GitHub](https://github.com/rmojgani/PhysicsAwareAE) |
