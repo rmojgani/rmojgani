@@ -4,7 +4,7 @@
 |  | Project | Description | Repository |
 | --- | ------ | ----------- |---------- |
 | 🖥️ | [Physics Aware Auto-encoder](https://arxiv.org/abs/2006.15655) | Manifold learning for hyperbolic PDEs| [GitHub](https://github.com/rmojgani/PhysicsAwareAE) |
-| 🖥️ | [LTV ROM Stabilization](https://doi.org/10.1002/nme.6489) | A optimal feedback controller for linear time-varying reduced order models | - |
+| 🖥️ | [LTV ROM Stabilization](https://doi.org/10.1002/nme.6489) | An optimal feedback controller for linear time-varying reduced order models | - |
 
 ## Summary of my [resume](https://www.rmojgani.com)
 
