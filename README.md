@@ -2,6 +2,15 @@
 ■ computational sciences ■ data-driven modeling ■ machine learning in physical systems ■ model reduction
 
 ## Summary of my [resume](https://www.rmojgani.com)
+
+
+
+
+|  | Project | Description |
+| --- | ------ | ----------- |
+| 🖥️ | [Physics Aware Auto-encoder](https://arxiv.org/abs/2006.15655) | Manifold Learning for hyperbolic PDEs| [GitHub](https://github.com/rmojgani/PhysicsAwareAE) |
+
+
 ## Highlights:
 ### My PhD [Thesis](http://hdl.handle.net/2142/108494) on ``Reduced order modeling of convection-dominated flows, dimensionality reduction and stabilization''
 
