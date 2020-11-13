@@ -3,7 +3,7 @@
 
 |  | Project | Description | Repository |
 | --- | ------ | ----------- |---------- |
-| 🖥️ | [Physics Aware Auto-encoder](https://arxiv.org/abs/2006.15655) | Manifold Learning for hyperbolic PDEs| [GitHub](https://github.com/rmojgani/PhysicsAwareAE) |
+| 🖥️ | [Physics Aware Auto-encoder](https://arxiv.org/abs/2006.15655) | Manifold learning for hyperbolic PDEs| [GitHub](https://github.com/rmojgani/PhysicsAwareAE) |
 
 ## Summary of my [resume](https://www.rmojgani.com)
 
