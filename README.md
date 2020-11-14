@@ -25,8 +25,8 @@
 | --- | ------ | ----------- |---------- |---------- |
 | 🖥️ | [Physics Aware Auto-encoder](https://arxiv.org/abs/2006.15655) | Manifold learning for hyperbolic PDEs| [GitHub](https://github.com/rmojgani/PhysicsAwareAE) | Matlab & Python |
 | 🦾 | [LTV ROM Stabilization](https://doi.org/10.1002/nme.6489) | An optimal feedback controller for linear time-varying reduced order models | Contact me |Matlab|
-| 🌊 | Incompressible flow in a Lid-driven cavity | A control-volume-based finite element method| [GitHub](https://github.com/rmojgani/CFD_AUT) | Fortran |
-| 🌊 | Compressible flow on an airfoil | Roe's Riemann solver for Euler equations on unstructured grids | [GitHub](https://github.com/rmojgani/CFD_AUT) | Fortran|
+| 🌊 | Incompressible flow in a Lid-driven cavity | A control-volume-based finite element method| [GitHub](https://github.com/rmojgani/CFD_AUT) | Fortran 90 |
+| 🌊 | Compressible flow on an airfoil | Roe's Riemann solver for Euler equations on unstructured grids | [GitHub](https://github.com/rmojgani/CFD_AUT) | Fortran 90 |
 
 <!--
 **rmojgani/rmojgani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
