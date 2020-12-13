@@ -5,7 +5,7 @@
 
 ## Highlights:
 ### My PhD [Thesis](http://hdl.handle.net/2142/108494) on ``Reduced order modeling of convection-dominated flows, dimensionality reduction and stabilization''
-  - A presentation [Rice University Seminar Series](https://www.youtube.com/watch?v=9a73WhflSWM&t=726s)
+- A presentation at [Rice University Seminar Series](https://www.youtube.com/watch?v=9a73WhflSWM&t=726s)
 
 
 1. Fully data-driven dimensionality reduction (Autoencoder approach): [preprint on arXiv](https://arxiv.org/abs/2006.15655)
