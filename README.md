@@ -11,8 +11,10 @@
 1. Fully data-driven dimensionality reduction (Autoencoder approach): [preprint on arXiv](https://arxiv.org/abs/2006.15655)
 
   - Repository: [PhysicsAwareAE](https://github.com/rmojgani/PhysicsAwareAE)
-  - Poster: [MLTP2020](http://doi.org/10.13140/RG.2.2.21734.98886) 
-  - Presentation: [AAAI2021](https://youtu.be/fDYPAj9WAbk) 
+  - Poster: [MLTP-2020](http://doi.org/10.13140/RG.2.2.21734.98886) 
+  - Presentation: [YouTube](https://youtu.be/fDYPAj9WAbk) [AAAI-2021](https://slideslive.com/38949065/lowrank-registration-based-manifolds-for-convectiondominated-pdes)
+
+
 
 2. Stabilization: [Published in IJNME](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.6489)
 
