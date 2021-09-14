@@ -8,8 +8,7 @@
 - A presentation at [Rice University - MECH Seminar Series, Nov 2020](https://www.youtube.com/watch?v=9a73WhflSWM)
 
 
-1. Fully data-driven dimensionality reduction (Autoencoder approach): [preprint on arXiv](https://arxiv.org/abs/2006.15655)
- 
+1. Fully data-driven dimensionality reduction (Autoencoder approach):  
   - Print: [AAAI-2021](https://ojs.aaai.org/index.php/AAAI/article/view/16116)
   - Repository: [PhysicsAwareAE](https://github.com/rmojgani/PhysicsAwareAE)
   - Poster: [MLTP-2020](http://doi.org/10.13140/RG.2.2.21734.98886) 
@@ -17,12 +16,12 @@
 
 
 
-2. Stabilization: [Published in IJNME](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.6489)
-
+2. Stabilization of time-varying reduced order models: 
+  - Print: [IJNME](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.6489)
   - Repository: [Contact me](mojgani2@illinois.edu)
   
-3. Lagrangian dimensionality reduction: [preprint on arXiv](https://arxiv.org/abs/1701.04343)
-
+3. Lagrangian dimensionality reduction:
+  - Repository: [preprint on arXiv]](https://arxiv.org/abs/1701.04343)
   - Repository: [Contact me](mojgani2@illinois.edu)
 
 ## Project List:
