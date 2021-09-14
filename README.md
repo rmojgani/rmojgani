@@ -19,7 +19,7 @@
   - Repository: [Contact me](mojgani2@illinois.edu)
   
 3. Lagrangian dimensionality reduction:
-  - Preprint: [arXiv]](https://arxiv.org/abs/1701.04343)
+  - Preprint: [arXiv](https://arxiv.org/abs/1701.04343)
   - Repository: [Contact me](mojgani2@illinois.edu)
 
 ## Project List:
