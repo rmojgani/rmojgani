@@ -9,7 +9,7 @@
 
 
 1. Fully data-driven dimensionality reduction (Autoencoder approach):  
-  - Print: [AAAI-2021](https://ojs.aaai.org/index.php/AAAI/article/view/16116)
+  - Print: [AAAI-2021](https://ojs.aaai.org/index.php/AAAI/article/download/16116/15923)
   - Repository: [PhysicsAwareAE](https://github.com/rmojgani/PhysicsAwareAE)
   - Poster: [MLTP-2020](http://doi.org/10.13140/RG.2.2.21734.98886) 
   - Presentation: [My YouTube Channel](https://youtu.be/fDYPAj9WAbk), [AAAI-2021](https://slideslive.com/38949065/lowrank-registration-based-manifolds-for-convectiondominated-pdes)
@@ -26,7 +26,7 @@
 |  | Project | Description | Repository |Language |
 | --- | ------ | ----------- |---------- |---------- |
 | 🖥️ | [MEDIDA](https://www.arxiv.org) | Model Error Discovery with Interpretability and Data Assimilation | [GitHub](https://github.com/envfluids/MEDIDA) | Python |
-| 🖥️ | [Physics Aware Auto-encoder](https://www.aaai.org/AAAI21Papers/AAAI-8654.MojganiR.pdf) | Manifold learning for hyperbolic PDEs| [GitHub](https://github.com/rmojgani/PhysicsAwareAE) | Matlab & Python |
+| 🖥️ | [Physics Aware Auto-encoder](https://ojs.aaai.org/index.php/AAAI/article/download/16116/15923) | Manifold learning for hyperbolic PDEs| [GitHub](https://github.com/rmojgani/PhysicsAwareAE) | Matlab & Python |
 | 🦾 | [LTV ROM Stabilization](https://doi.org/10.1002/nme.6489) | An optimal feedback controller for linear time-varying reduced order models | Contact me |Matlab|
 | 🌊 | Incompressible flow in a Lid-driven cavity | A control-volume-based finite element method| [GitHub](https://github.com/rmojgani/CFD_AUT) | Fortran 90 |
 | 🌊 | Compressible flow on an airfoil | Roe's Riemann solver for Euler equations on unstructured grids | [GitHub](https://github.com/rmojgani/CFD_AUT) | Fortran 90 |
