@@ -25,6 +25,7 @@
 ## Project List:
 |  | Project | Description | Repository |Language |
 | --- | ------ | ----------- |---------- |---------- |
+| 🖥️ | [MEDIDA](https://www.arxiv.org) | Model Error Discovery with Interpretability and Data Assimilation | [GitHub](https://github.com/envfluids/MEDIDA) | Python |
 | 🖥️ | [Physics Aware Auto-encoder](https://www.aaai.org/AAAI21Papers/AAAI-8654.MojganiR.pdf) | Manifold learning for hyperbolic PDEs| [GitHub](https://github.com/rmojgani/PhysicsAwareAE) | Matlab & Python |
 | 🦾 | [LTV ROM Stabilization](https://doi.org/10.1002/nme.6489) | An optimal feedback controller for linear time-varying reduced order models | Contact me |Matlab|
 | 🌊 | Incompressible flow in a Lid-driven cavity | A control-volume-based finite element method| [GitHub](https://github.com/rmojgani/CFD_AUT) | Fortran 90 |
