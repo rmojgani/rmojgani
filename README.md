@@ -12,11 +12,12 @@
   - Print: [AAAI-2021](https://ojs.aaai.org/index.php/AAAI/article/download/16116/15923)
   - Repository: [PhysicsAwareAE](https://github.com/rmojgani/PhysicsAwareAE)
   - Poster: [MLTP-2020](http://doi.org/10.13140/RG.2.2.21734.98886) 
-  - Presentation: [My YouTube Channel](https://youtu.be/fDYPAj9WAbk), [AAAI-2021](https://slideslive.com/38949065/lowrank-registration-based-manifolds-for-convectiondominated-pdes)
+  - Presentation: [My YouTube Channel, presented at AAAI 2021](https://youtu.be/fDYPAj9WAbk), [AAAI-2021](https://slideslive.com/38949065/lowrank-registration-based-manifolds-for-convectiondominated-pdes)
 
 2. Stabilization of time-varying reduced order models: 
   - Print: [IJNME](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.6489)
   - Repository: [Contact me](mojgani2@illinois.edu)
+  - Presentation: [My YouTube Channel, presented at MMLDT 2021](https://www.youtube.com/watch?v=lF82o0-kLfs) 
   
 3. Lagrangian dimensionality reduction:
   - Preprint: [arXiv](https://arxiv.org/abs/1701.04343)
