@@ -1,7 +1,7 @@
 # Rambod Mojgani
 ■ computational sciences ■ data-driven modeling ■ machine learning in physical systems ■ model reduction
 
-## Project List:
+## Select Projects:
 |  | Project | Description | Repository |Language |
 | --- | ------ | ----------- |---------- |---------- |
 | 🖥️ | [MEDIDA](https://arxiv.org/pdf/2110.00546) | Model Error Discovery with Interpretability and Data Assimilation | [GitHub](https://github.com/envfluids/MEDIDA) | Python |
