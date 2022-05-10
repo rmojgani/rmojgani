@@ -15,8 +15,7 @@
 ## Summary of my [resume](https://www.rmojgani.com)
 
 ## Highlights:
-### My PhD [Thesis](http://hdl.handle.n
-et/2142/108494) on ``Reduced order modeling of convection-dominated flows, dimensionality reduction and stabilization''
+### My PhD [Thesis](http://hdl.handle.net/2142/108494) on ``Reduced order modeling of convection-dominated flows, dimensionality reduction and stabilization''
 - A presentation at [Rice University - MECH Seminar Series, Nov 2020](https://www.youtube.com/watch?v=9a73WhflSWM)
 
 
