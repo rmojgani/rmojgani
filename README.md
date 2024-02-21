@@ -6,7 +6,7 @@
 | --- | ------ | ----------- |---------- |---------- |
 | 🖥️ | [MEDIDA_QG](https://arxiv.org/abs/2309.13211) | Model Error Discovery with Interpretability and Data Assimilation for quasi-geostrophic turbulence| [GitHub](https://github.com/rmojgani/MEDIDA_QG) | Python |
 | 🌊 | [Py2D]() | Python-Jax solver for 2D turbulence | [GitHub](https://github.com/envfluids/py2d) | Python (JAX) |
-| 🖥️ | [LPINNs](https://arxiv.org/abs/2205.02902) | Lagrangian physics-informed neural network | [GitHub](https://github.com/rmojgani/LPINNs/) | Python (Pytorch) |
+| 🖥️ | [LPINNs](https://arxiv.org/abs/2205.02902) | Lagrangian physics-informed neural network | [GitHub](https://github.com/rmojgani/LPINNs/) [![GitHub Repo stars](https://img.shields.io/github/stars/rmojgani/LPINNs?style=social)](https://github.com/rmojgani/LPINNs)| Python (Pytorch) |
 | 🖥️ | [MEDIDA](https://arxiv.org/pdf/2110.00546) | Model Error Discovery with Interpretability and Data Assimilation | [GitHub](https://github.com/envfluids/MEDIDA) | Python |
 | 🖥️ | [Physics Aware Auto-encoder](https://ojs.aaai.org/index.php/AAAI/article/download/16116/15923) | Manifold learning for large Kolmogorov n-width PDEs| [GitHub](https://github.com/rmojgani/PhysicsAwareAE) | Matlab & Python (Keras) |
 | 🦾 | [LTV ROM Stabilization](https://doi.org/10.1002/nme.6489) | An optimal feedback controller for linear time-varying reduced order models | Contact me |Matlab|
