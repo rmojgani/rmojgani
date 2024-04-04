@@ -4,7 +4,7 @@
 ## Select Projects:
 |  | Project | Description | Repository |Language |
 | --- | ------ | ----------- |---------- |---------- |
-| 🖥️ | [MEDIDA_QG](https://arxiv.org/abs/2309.13211) | Model Error Discovery with Interpretability and Data Assimilation for quasi-geostrophic turbulence| [GitHub](https://github.com/rmojgani/MEDIDA_QG) ![GitHub Repo stars](https://img.shields.io/github/stars/rmojgani/MEDIDA_QG?style=social) | Python |
+| 🖥️ | [MEDIDA_QG](https://arxiv.org/abs/2309.13211) | Model Error Discovery with Interpretability and Data Assimilation for quasi-geostrophic turbulence| [GitHub](https://github.com/rmojgani/MEDIDA_QG) ![GitHub Repo stars](https://img.shields.io/github/stars/rmojgani/MEDIDA_QG?style=social) | Python (PyTorch) |
 | 🌊 | [Py2D]() | Python-Jax solver for 2D turbulence | [GitHub](https://github.com/envfluids/py2d) ![GitHub Repo stars](https://img.shields.io/github/stars/envfluids/py2d?style=social) | Python (JAX) |
 | 🖥️ | [LPINNs](https://arxiv.org/abs/2205.02902) | Lagrangian physics-informed neural network | [GitHub](https://github.com/rmojgani/LPINNs/) [![GitHub Repo stars](https://img.shields.io/github/stars/rmojgani/LPINNs?style=social)](https://github.com/rmojgani/LPINNs)| Python (Pytorch) |
 | 🖥️ | [MEDIDA](https://arxiv.org/pdf/2110.00546) | Model Error Discovery with Interpretability and Data Assimilation | [GitHub](https://github.com/envfluids/MEDIDA) ![GitHub Repo stars](https://img.shields.io/github/stars/envfluids/MEDIDA?style=social) | Python |
